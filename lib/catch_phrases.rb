@@ -12,7 +12,7 @@ puts status
 end
 
 def link
-  say = "it's Dangerous To Go Alone! Take This.\n"
+  say = "it's Dangerous To Go Alone! Take This."
   
   puts say
   
@@ -20,8 +20,8 @@ end
 
 def any_phrase 
   
-  repeat = "Do A Barrel Roll!\n"
-  puts repeat
+  phrase = "Do A Barrel Roll!"
+  puts phrase
 end 
   
   
