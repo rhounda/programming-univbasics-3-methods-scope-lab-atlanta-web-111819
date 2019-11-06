@@ -1,6 +1,6 @@
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
- phrase = "it's-a me, Mario!\n"
+ phrase = "it's-a me, Mario!"
   puts phrase
   
 end
@@ -12,7 +12,7 @@ puts status
 end
 
 def link
-  say = "it's Dangerous To Go Alone! Take This."
+  say = "it's Dangerous To Go alone! Take This."
   
   puts say
   
